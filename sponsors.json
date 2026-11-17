@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "Félix Pagès",
+    "login": "felix-commits",
+    "avatar": "https://avatars.githubusercontent.com/u/70573684?u=77f4304d82352d4ece1fbcb243f5cb6d6c2267d7&v=4",
+    "amount": 5,
+    "link": "https://github.com/felix-commits",
+    "org": false
+  }
+]
